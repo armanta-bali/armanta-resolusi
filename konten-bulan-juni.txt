@@ -6,5 +6,6 @@ MEMBUAT KONTEN YOUTUBE FRONT END PEMULA.
   - css dasar
   - css layouting
   - css3
+* frame work => bootstrap
 3. Belajar Javascript.
   - react
