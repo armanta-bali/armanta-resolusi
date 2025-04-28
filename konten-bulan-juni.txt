@@ -3,4 +3,7 @@ MEMBUAT KONTEN YOUTUBE FRONT END PEMULA.
   - Belajar sintax html.
   - Belajar typhografy
 2. Belajar CSS.
+  - CSS3
+  - TailwindCSS
 3. Belajar Javascript.
+  - React
